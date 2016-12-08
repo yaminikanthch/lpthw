@@ -1,1 +1,2 @@
-Welcome,This is my first test.
+print "Welcome,This is my first test."
+
