@@ -1,0 +1,6 @@
+print "Hello Word!"
+print "Hello Again"
+print "I like typing this"
+print "This is awsome"
+print "i got it now"
+print "i can imagine print"
